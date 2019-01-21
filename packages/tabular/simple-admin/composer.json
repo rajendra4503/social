@@ -1,0 +1,12 @@
+{
+    "name": "tabular/simple-admin",
+    "description": "A package which provides a simple UI for managing users",
+    "authors": [
+        {
+            "name": "rajendra singh",
+            "email": "rajendra4503@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
